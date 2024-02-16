@@ -6,10 +6,11 @@ Dataset Link: [CS:GO Round Outcome Dataset](https://www.openml.org/search?type=d
 
 Various factors contribute to determining round winners, including:
 
-Time Left: Reflecting the time remaining in the round, a crucial factor influencing the outcome, especially if the bomb has not been planted by the Ts before time runs out.
-Bomb Planted: A binary variable indicating whether the bomb has been successfully planted.
-CT Health: Total health of all Counter-Terrorist players.
-T Health: Total health of all Terrorist players.
-Number of players alive on each team (CTs and Ts).
-Weapon counts for both CTs and Ts.
+- Time Left: Reflecting the time remaining in the round, a crucial factor influencing the outcome, especially if the bomb has not been planted by the Ts before time runs out.
+- Bomb Planted: A binary variable indicating whether the bomb has been successfully planted.
+- CT Health: Total health of all Counter-Terrorist players.
+- T Health: Total health of all Terrorist players.
+- Number of players alive on each team (CTs and Ts).
+- Weapon counts for both CTs and Ts.
+  
 Given the extensive nature of the dataset, preprocessing is essential to extract relevant features for model training. Once the data is prepared, we will train and evaluate the model's accuracy in predicting round outcomes, striving for reasonable accuracy in distinguishing between Ts and CTs victories. Let's embark on this journey to unveil the intricacies of round outcomes in CS:GO together!
