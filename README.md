@@ -2,7 +2,7 @@
 
 The primary objective of this project is to predict the outcome of rounds in CS:GO, determining whether Terrorists (Ts) or Counter-Terrorists (CTs) emerge victorious. Utilizing a dataset sourced from OpenML, comprising raw data from over 700 matches played between 2019 and 2020, we aim to identify key factors influencing round outcomes.
 
-Dataset Link: ]CS:GO Round Outcome Dataset](https://www.openml.org/search?type=data&sort=runs&id=43430&status=active)
+Dataset Link: [CS:GO Round Outcome Dataset](https://www.openml.org/search?type=data&sort=runs&id=43430&status=active)
 
 Various factors contribute to determining round winners, including:
 
